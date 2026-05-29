@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaserender",
+        "uuid": 48937362,
+        "checksum": "fapecv"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
